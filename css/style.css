@@ -2034,7 +2034,7 @@ article .content .caption {
   }
 }
 .highlight {
-  color: white;
+  color: #222;
   background: #272822;
 }
 .highlight .code .tag,
